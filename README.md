@@ -78,7 +78,7 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamanthperera&show_icons=true&locale=en" alt="shyamanthperera" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamanthperera&show_icons=true&locale=en" alt="shyamanthperera" /></p>-->
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shyamanthaperera&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
